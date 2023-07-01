@@ -1,5 +1,5 @@
-# yoursunny.com code samples
+# 加密PHP脚本的解码方法
 
-https://yoursunny.com
+https://yoursunny.com/t/2009/PHP-decode/
 
-This repository collects my 1998-2014 program code.
+https://yoursunny.com/t/2009/PHP-decode-2/
